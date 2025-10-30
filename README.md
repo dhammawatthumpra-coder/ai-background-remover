@@ -545,7 +545,7 @@ See [CHANGELOG.md](CHANGELOG.md) for complete version history.
 
 <div align="center">
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by [dhammawatthumpra-coder]**
 
 **© 2024 AI Background Remover v12.2**
 
