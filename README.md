@@ -452,23 +452,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🗺️ Roadmap
-
-### Version 12.3 (Planned)
-- [ ] Batch processing for multiple images
-- [ ] Custom background colors/images
-- [ ] History/Undo functionality
-- [ ] Preset configurations
-- [ ] Command-line interface
-
-### Version 13.0 (Future)
-- [ ] Advanced hair/fur detection
-- [ ] Smart object selection
-- [ ] Background blur effects
-- [ ] Cloud processing option
-- [ ] Plugin system for extensions
-- [ ] More languages (Chinese, Japanese, Korean)
-
 See [CHANGELOG.md](CHANGELOG.md) for version history.
 
 ---
