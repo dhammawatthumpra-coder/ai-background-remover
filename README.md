@@ -506,26 +506,6 @@ See [CHANGELOG.md](CHANGELOG.md) for complete version history.
 
 ---
 
-## ⭐ Star History
-
-<div align="center">
-
-[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_USERNAME/ai-background-remover&type=Date)](https://star-history.com/#YOUR_USERNAME/ai-background-remover&Date)
-
-*If you find this project useful, please consider giving it a star ⭐*
-
-</div>
-
----
-
-## 📱 Stay Updated
-
-- 🌟 **Star** this repository to stay updated
-- 👁️ **Watch** for new releases
-- 🍴 **Fork** to experiment with your own version
-
----
-
 <div align="center">
 
 **Made with ❤️ by [dhammawatthumpra-coder]**
